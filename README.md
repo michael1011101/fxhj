@@ -1,2 +1,2 @@
 # fxhj
-fxhj is a git learning project.
+fxhj is a git learning C++ project.
